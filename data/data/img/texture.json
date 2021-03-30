@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "bell_0",
+	"frame": {"x":0,"y":0,"w":256,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":320},
+	"sourceSize": {"w":256,"h":320}
+},
+{
+	"filename": "bell_1",
+	"frame": {"x":256,"y":0,"w":256,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":320},
+	"sourceSize": {"w":256,"h":320}
+},
+{
+	"filename": "counter",
+	"frame": {"x":512,"y":0,"w":280,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":100},
+	"sourceSize": {"w":280,"h":100}
+},
+{
+	"filename": "mio_0",
+	"frame": {"x":792,"y":0,"w":580,"h":830},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":830},
+	"sourceSize": {"w":580,"h":830}
+},
+{
+	"filename": "mio_1",
+	"frame": {"x":1372,"y":0,"w":580,"h":830},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":830},
+	"sourceSize": {"w":580,"h":830}
+},
+{
+	"filename": "mogu",
+	"frame": {"x":0,"y":830,"w":200,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":157},
+	"sourceSize": {"w":200,"h":157}
+},
+{
+	"filename": "share",
+	"frame": {"x":200,"y":830,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "table",
+	"frame": {"x":328,"y":830,"w":800,"h":308},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":308},
+	"sourceSize": {"w":800,"h":308}
+},
+{
+	"filename": "tag",
+	"frame": {"x":1128,"y":830,"w":370,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":370,"h":75},
+	"sourceSize": {"w":370,"h":75}
+},
+{
+	"filename": "volume_off",
+	"frame": {"x":1498,"y":830,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "volume_on",
+	"frame": {"x":1626,"y":830,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1952,"h":1138},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9ae4f7ed289d60fa9b0716e3e8ca7f40:98e8f3c95fb96076b30b82a578437602:88db1022cd6b660616541d2788fcd4f7$"
+}
+}
