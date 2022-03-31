@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "bell_0",
+	"frame": {"x":384,"y":0,"w":187,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":244},
+	"sourceSize": {"w":187,"h":244}
+},
+{
+	"filename": "bell_1",
+	"frame": {"x":571,"y":0,"w":187,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":244},
+	"sourceSize": {"w":187,"h":244}
+},
+{
+	"filename": "counter",
+	"frame": {"x":1157,"y":0,"w":280,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":100},
+	"sourceSize": {"w":280,"h":100}
+},
+{
+	"filename": "mio_0",
+	"frame": {"x":0,"y":244,"w":552,"h":894},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":552,"h":894},
+	"sourceSize": {"w":552,"h":894}
+},
+{
+	"filename": "mio_1",
+	"frame": {"x":552,"y":244,"w":552,"h":894},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":552,"h":894},
+	"sourceSize": {"w":552,"h":894}
+},
+{
+	"filename": "mogu",
+	"frame": {"x":758,"y":0,"w":198,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":150},
+	"sourceSize": {"w":198,"h":150}
+},
+{
+	"filename": "share",
+	"frame": {"x":0,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "table",
+	"frame": {"x":1104,"y":244,"w":800,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":296},
+	"sourceSize": {"w":800,"h":296}
+},
+{
+	"filename": "tag",
+	"frame": {"x":1437,"y":0,"w":370,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":370,"h":75},
+	"sourceSize": {"w":370,"h":75}
+},
+{
+	"filename": "volume_off",
+	"frame": {"x":128,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "volume_on",
+	"frame": {"x":256,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "yoho",
+	"frame": {"x":956,"y":0,"w":201,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":87},
+	"sourceSize": {"w":201,"h":87}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1904,"h":1138},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:89b3307de7b77bbc8f273a4c9a19b53b:a1407b8e8eedbe31b8eeef2e5d21521e:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

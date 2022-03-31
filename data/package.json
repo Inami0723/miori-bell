@@ -1,0 +1,33 @@
+{
+  "name": "mioribell",
+  "version": "1.0.0",
+  "description": "Miori Bell - 2021 April Fool's Games",
+  "homepage": "https://twitter.com/Inami0723",
+  "license": "MIT",
+  "author": {
+    "name": "Inami Yui",
+    "email": "inamiyui0723@gmail.com"
+  },
+  "main": "main.js",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-asar": "github:bwin/grunt-asar#update-asar",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-download-electron": "^2.1.4",
+    "grunt-processhtml": "^0.4.1",
+    "grunt-replace": "^1.0.1"
+  },
+  "dependencies": {
+    "coffeescript": "^2.5.1"
+  },
+  "scripts": {
+    "build": "grunt",
+    "serve": "npm run build && grunt serve",
+    "dist": "grunt dist"
+  }
+}
